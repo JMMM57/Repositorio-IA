@@ -1,0 +1,13 @@
+# Evaluacion de Laberinto con Algoritmo A*
+
+Este documento describe el proceso seguido para resolver el laberinto utilizando el algoritmo de búsqueda informada **A***.
+
+---
+
+## 1. Imagen del Laberinto Resuelto
+
+A continuación se muestra el esquema del laberinto con sus obstáculos, costos y la ruta resultante (reliminar durante la clase)
+
+![Laberinto Resuelto](../images/Evaluacion_a.png)
+
+---
