@@ -1,4 +1,4 @@
-# Resolución de Laberinto con Algoritmo A* (Trampa en Forma de U)
+# Resolución de Laberinto con Algoritmo A* (Evaluacion)
 
 Este documento describe el proceso seguido para resolver el laberinto utilizando el algoritmo de búsqueda informada **A***.
 
