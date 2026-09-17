@@ -97,7 +97,7 @@ Si agregamos `total_frames_partida` o un indicador de "partida activa" como vari
 
 ---
 
-## Opnicion Final
+## Opinion Final
 
 Para la realización de esta práctica, el dataset se obtendría mediante un **script de telemetría** que capture el estado de las variables por cada frame. 
 
