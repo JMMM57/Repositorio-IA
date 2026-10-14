@@ -3,7 +3,7 @@ import cv2 as cv
 
 # -------------------------------------------------------------
 # CAMBIA ESTE NOMBRE PARA CADA PERSONA: 'persona1', 'persona2' o 'persona3'
-NOMBRE_PERSONA = "persona2"
+NOMBRE_PERSONA = "persona4"
 # -------------------------------------------------------------
 
 CARPETA_DESTINO = os.path.join("dataset", NOMBRE_PERSONA)
